@@ -1,0 +1,11 @@
+Gender,Wealth,Age,House
+Male,Rich,Teenage,Yes
+Female,Poor,Teenage,No
+Female,Rich,Adult,Yes
+Male,Rich,Adult,Yes
+Female,Rich,Elderly,Yes
+Male,Poor,Elderly,No
+Male,Poor,Teenage,Yes
+Male,Rich,Adult,No
+Female,Rich,Adult,Yes
+Male,Poor,Teenage,Yes
